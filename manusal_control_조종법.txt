@@ -1,0 +1,8 @@
+날씨 변경 : Ctrl + C
+차량 변경 : backspace
+시점 변경 : Tab
+오토파일럿 : P
+카메라 변경 : N
+조종 : W A S D
+속도 60km 고정 : Ctrl + W
+기어 변경 : M 키로 직접 변경으로 수정 후 , / . 로 기어 down, up 조종
